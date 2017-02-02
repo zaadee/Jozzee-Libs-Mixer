@@ -25,7 +25,7 @@ style="@style/Widget.AppCompat.Button.Borderless.Colored"
 
 ```xml
 <Button
-    android:id="@+id/btn_1"
+    android:id="@+id/btn1"
     style="@style/Widget.AppCompat.Button.Colored"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -42,7 +42,7 @@ Add custom style to styles.xml
 Then add style to button.
 ```xml
 <Button
-    android:id="@+id/btn_1"
+    android:id="@+id/btn1"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="@string/button"
