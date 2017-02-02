@@ -1,4 +1,4 @@
-# JozzigaLibs
+# Jozzee Libs Mixer
 mix library android 5555
 
 Ver. 0.0.1
