@@ -31,3 +31,4 @@ Example!
     android:layout_height="wrap_content"
     android:text="@string/button" />
 ```
+### How to change color
