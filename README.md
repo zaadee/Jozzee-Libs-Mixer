@@ -7,3 +7,4 @@ Ver. 0.0.1
 Ver. 0.0.2 [2/2/2017]
   - add gradle script
   - add toolbar layout
+  - add button styles
