@@ -6,17 +6,15 @@ for the standard buttons, all of these styles are available:
 ```xml
 style="@style/Widget.AppCompat.Button"
 ```
-<br /><br />
 ![button colored](https://cloud.githubusercontent.com/assets/10556500/22536852/e274c00c-e937-11e6-8053-e8792522a88d.png)<br />
 ```xml
 style="@style/Widget.AppCompat.Button.Colored"
 ```
-<br /><br />
 ![button borderless](https://cloud.githubusercontent.com/assets/10556500/22536851/e2466dec-e937-11e6-977e-5a9b64f9b8ee.png)<br />
 ```xml
 style="@style/Widget.AppCompat.Button.Borderless"
-<br /><br />
 ```
+
 ![button borderless colored](https://cloud.githubusercontent.com/assets/10556500/22536850/e217adea-e937-11e6-905f-cb493738062c.png)<br />
 ```xml
 style="@style/Widget.AppCompat.Button.Borderless.Colored"
