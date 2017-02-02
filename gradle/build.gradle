@@ -6,7 +6,6 @@ dependencies{
 
 //---------------------------------------------------------
 //Trip!! add version of dependencies as variable for group dependencies.
-
 dependencies{
   ext.supportlibraryGroup = '25.1.1'
   compile "com.android.support:appcompat-v7:$supportlibraryGroup"
