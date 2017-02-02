@@ -14,3 +14,11 @@ style="@style/Widget.AppCompat.Button.Borderless"
 ![button borderless colored](https://cloud.githubusercontent.com/assets/10556500/22536850/e217adea-e937-11e6-905f-cb493738062c.png)<br />
 style="@style/Widget.AppCompat.Button.Borderless.Colored"
 <br /><br />
+
+Example!
+<Button
+        android:id="@+id/btn_1"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button" />
