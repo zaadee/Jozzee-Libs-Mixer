@@ -16,9 +16,12 @@ style="@style/Widget.AppCompat.Button.Borderless.Colored"
 <br /><br />
 
 Example!
+
+```xml
 <Button
         android:id="@+id/btn_1"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button" />
+```
