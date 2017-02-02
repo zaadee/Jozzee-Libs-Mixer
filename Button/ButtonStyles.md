@@ -2,7 +2,7 @@
 With the Support Library v7, all the styles are actually already defined and ready to use, for the standard buttons, all of these styles are available:
 
 
-![button](https://cloud.githubusercontent.com/assets/10556500/22536841/c135beb4-e937-11e6-8908-bf13d2b29aa1.png)
+![button](https://cloud.githubusercontent.com/assets/10556500/22536841/c135beb4-e937-11e6-8908-bf13d2b29aa1.png)<br />
 style="@style/Widget.AppCompat.Button"
 
 style="@style/Widget.AppCompat.Button.Colored"
