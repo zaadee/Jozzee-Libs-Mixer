@@ -32,10 +32,19 @@ style="@style/Widget.AppCompat.Button.Borderless.Colored"
     android:text="@string/button" />
 ```
 ### How to change color
-The color of all the UI controls (not only buttons, but also floating action buttons, checkboxes etc.) is managed by the attribute colorAccent as explained here. You can modify this style and apply your own color in your theme definition:
+Add custom style to styles.xml
 ```xml
-<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-    ...
-    <item name="colorAccent">@color/Orange</item>
+<style name="AppTheme.Button" parent="Widget.AppCompat.Button.Colored">
+    <item name="colorButtonNormal">@color/Red</item>
+    <item name="android:textColor">@color/White</item>
 </style>
+```
+Then add style to button.
+```xml
+<Button
+    android:id="@+id/btn_1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/button"
+    android:theme="@style/AppTheme.Button" />
 ```
