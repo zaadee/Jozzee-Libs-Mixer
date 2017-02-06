@@ -275,6 +275,6 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="BlueGrey_700">#455A64</color>
     <color name="BlueGrey_800">#37474F</color>
     <color name="BlueGrey_900">#263238</color>
-    
-    ```
+  
+ ```
 
