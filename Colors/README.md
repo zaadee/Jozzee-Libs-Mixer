@@ -48,20 +48,20 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Purple_A400">#D500F9</color>
     <color name="Purple_A700">#AA00FF</color>
 
-    <color name="DeepPurple_50">#EDE7F6</color>
-    <color name="DeepPurple_100">#D1C4E9</color>
-    <color name="DeepPurple_200">#B39DDB</color>
-    <color name="DeepPurple_300">#9575CD</color>
-    <color name="DeepPurple_400">#7E57C2</color>
-    <color name="DeepPurple">#673AB7</color>
-    <color name="DeepPurple_600">#5E35B1</color>
-    <color name="DeepPurple_700">#512DA8</color>
-    <color name="DeepPurple_800">#4527A0</color>
-    <color name="DeepPurple_900">#311B92</color>
-    <color name="DeepPurple_A100">#B388FF</color>
-    <color name="DeepPurple_A200">#7C4DFF</color>
-    <color name="DeepPurple_A400">#651FFF</color>
-    <color name="DeepPurple_A700">#6200EA</color>
+    <color name="Deep_Purple_50">#EDE7F6</color>
+    <color name="Deep_Purple_100">#D1C4E9</color>
+    <color name="Deep_Purple_200">#B39DDB</color>
+    <color name="Deep_Purple_300">#9575CD</color>
+    <color name="Deep_Purple_400">#7E57C2</color>
+    <color name="Deep_Purple">#673AB7</color>
+    <color name="Deep_Purple_600">#5E35B1</color>
+    <color name="Deep_Purple_700">#512DA8</color>
+    <color name="Deep_Purple_800">#4527A0</color>
+    <color name="Deep_Purple_900">#311B92</color>
+    <color name="Deep_Purple_A100">#B388FF</color>
+    <color name="Deep_Purple_A200">#7C4DFF</color>
+    <color name="Deep_Purple_A400">#651FFF</color>
+    <color name="Deep_Purple_A700">#6200EA</color>
 
     <color name="Indigo_50">#E8EAF6</color>
     <color name="Indigo_100">#C5CAE9</color>
@@ -93,20 +93,20 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Blue_A400">#2979FF</color>
     <color name="Blue_A700">#2962FF</color>
 
-    <color name="LightBlue_50">#E1F5FE</color>
-    <color name="LightBlue_100">#B3E5FC</color>
-    <color name="LightBlue_200">#81D4FA</color>
-    <color name="LightBlue_300">#4FC3F7</color>
-    <color name="LightBlue_400">#29B6F6</color>
-    <color name="LightBlue">#03A9F4</color>
-    <color name="LightBlue_600">#039BE5</color>
-    <color name="LightBlue_700">#0288D1</color>
-    <color name="LightBlue_800">#0277BD</color>
-    <color name="LightBlue_900">#01579B</color>
-    <color name="LightBlue_A100">#80D8FF</color>
-    <color name="LightBlue_A200">#40C4FF</color>
-    <color name="LightBlue_A400">#00B0FF</color>
-    <color name="LightBlue_A700">#0091EA</color>
+    <color name="Light_Blue_50">#E1F5FE</color>
+    <color name="Light_Blue_100">#B3E5FC</color>
+    <color name="Light_Blue_200">#81D4FA</color>
+    <color name="Light_Blue_300">#4FC3F7</color>
+    <color name="Light_Blue_400">#29B6F6</color>
+    <color name="Light_Blue">#03A9F4</color>
+    <color name="Light_Blue_600">#039BE5</color>
+    <color name="Light_Blue_700">#0288D1</color>
+    <color name="Light_Blue_800">#0277BD</color>
+    <color name="Light_Blue_900">#01579B</color>
+    <color name="Light_Blue_A100">#80D8FF</color>
+    <color name="Light_Blue_A200">#40C4FF</color>
+    <color name="Light_Blue_A400">#00B0FF</color>
+    <color name="Light_Blue_A700">#0091EA</color>
 
     <color name="Cyan_50">#E0F7FA</color>
     <color name="Cyan_100">#B2EBF2</color>
@@ -153,20 +153,20 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Green_A400">#00E676</color>
     <color name="Green_A700">#00C853</color>
 
-    <color name="LightGreen_50">#F1F8E9</color>
-    <color name="LightGreen_100">#DCEDC8</color>
-    <color name="LightGreen_200">#C5E1A5</color>
-    <color name="LightGreen_300">#AED581</color>
-    <color name="LightGreen_400">#AED581</color>
-    <color name="LightGreen">#8BC34A</color>
-    <color name="LightGreen_600">#7CB342</color>
-    <color name="LightGreen_700">#689F38</color>
-    <color name="LightGreen_800">#558B2F</color>
-    <color name="LightGreen_900">#33691E</color>
-    <color name="LightGreen_A100">#CCFF90</color>
-    <color name="LightGreen_A200">#B2FF59</color>
-    <color name="LightGreen_A400">#76FF03</color>
-    <color name="LightGreen_A700">#64DD17</color>
+    <color name="Light_Green_50">#F1F8E9</color>
+    <color name="Light_Green_100">#DCEDC8</color>
+    <color name="Light_Green_200">#C5E1A5</color>
+    <color name="Light_Green_300">#AED581</color>
+    <color name="Light_Green_400">#AED581</color>
+    <color name="Light_Green">#8BC34A</color>
+    <color name="Light_Green_600">#7CB342</color>
+    <color name="Light_Green_700">#689F38</color>
+    <color name="Light_Green_800">#558B2F</color>
+    <color name="Light_Green_900">#33691E</color>
+    <color name="Light_Green_A100">#CCFF90</color>
+    <color name="Light_Green_A200">#B2FF59</color>
+    <color name="Light_Green_A400">#76FF03</color>
+    <color name="Light_Green_A700">#64DD17</color>
 
     <color name="Lime_50">#F9FBE7</color>
     <color name="Lime_100">#F0F4C3</color>
@@ -228,20 +228,20 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Orange_A400">#FF9100</color>
     <color name="Orange_A700">#FF6D00</color>
 
-    <color name="DeepOrange_50">#FBE9E7</color>
-    <color name="DeepOrange_100">#FFCCBC</color>
-    <color name="DeepOrange_200">#FFAB91</color>
-    <color name="DeepOrange_300">#FF8A65</color>
-    <color name="DeepOrange_400">#FF7043</color>
-    <color name="DeepOrange">#FF5722</color>
-    <color name="DeepOrange_600">#F4511E</color>
-    <color name="DeepOrange_700">#E64A19</color>
-    <color name="DeepOrange_800">#D84315</color>
-    <color name="DeepOrange_900">#BF360C</color>
-    <color name="DeepOrange_A100">#FF9E80</color>
-    <color name="DeepOrange_A200">#FF6E40</color>
-    <color name="DeepOrange_A400">#FF3D00</color>
-    <color name="DeepOrange_A700">#DD2C00</color>
+    <color name="Deep_Orange_50">#FBE9E7</color>
+    <color name="Deep_Orange_100">#FFCCBC</color>
+    <color name="Deep_Orange_200">#FFAB91</color>
+    <color name="Deep_Orange_300">#FF8A65</color>
+    <color name="Deep_Orange_400">#FF7043</color>
+    <color name="Deep_Orange">#FF5722</color>
+    <color name="Deep_Orange_600">#F4511E</color>
+    <color name="Deep_Orange_700">#E64A19</color>
+    <color name="Deep_Orange_800">#D84315</color>
+    <color name="Deep_Orange_900">#BF360C</color>
+    <color name="Deep_Orange_A100">#FF9E80</color>
+    <color name="Deep_Orange_A200">#FF6E40</color>
+    <color name="Deep_Orange_A400">#FF3D00</color>
+    <color name="Deep_Orange_A700">#DD2C00</color>
 
     <color name="Brown_50">#EFEBE9</color>
     <color name="Brown_100">#D7CCC8</color>
@@ -265,16 +265,48 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Grey_800">#424242</color>
     <color name="Grey_900">#212121</color>
 
-    <color name="BlueGrey_50">#ECEFF1</color>
-    <color name="BlueGrey_100">#CFD8DC</color>
-    <color name="BlueGrey_200">#B0BEC5</color>
-    <color name="BlueGrey_300">#90A4AE</color>
-    <color name="BlueGrey_400">#78909C</color>
-    <color name="BlueGrey">#607D8B</color>
-    <color name="BlueGrey_600">#546E7A</color>
-    <color name="BlueGrey_700">#455A64</color>
-    <color name="BlueGrey_800">#37474F</color>
-    <color name="BlueGrey_900">#263238</color>
+    <color name="Blue_Grey_50">#ECEFF1</color>
+    <color name="Blue_Grey_100">#CFD8DC</color>
+    <color name="Blue_Grey_200">#B0BEC5</color>
+    <color name="Blue_Grey_300">#90A4AE</color>
+    <color name="Blue_Grey_400">#78909C</color>
+    <color name="Blue_Grey">#607D8B</color>
+    <color name="Blue_Grey_600">#546E7A</color>
+    <color name="Blue_Grey_700">#455A64</color>
+    <color name="Blue_Grey_800">#37474F</color>
+    <color name="Blue_Grey_900">#263238</color>
+    
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    
+    <color name="Dark_Text_Primary">#DE000000</color>
+    <color name="Dark_Text_Secondary">#8A000000</color>
+    <color name="Dark_Text_Disabled">#61000000</color>
+    <color name="Dark_Text_Hint">@color/Dark_Text_Disabled</color>
+    <color name="Dark_Dividers">#1F000000</color>
+
+    <color name="White_Text_Primary">@color/White</color>
+    <color name="White_Text_Secondary">#B3FFFFFF</color>
+    <color name="White_Text_Disabled">#80FFFFFF</color>
+    <color name="White_Text_Hint">@color/White_Text_Disabled</color>
+    <color name="White_Dividers">#1FFFFFFF</color>
+
+    <color name="Dark_Icon">@color/Dark_Text_Disabled</color>
+    <color name="Dark_Icon_Active">#8A000000</color>
+
+    <color name="White_Icon_">@color/White_Text_Disabled</color>
+    <color name="White_Icon_Active">@color/White</color>
+
+    <color name="Light_Theme_Status_Bar">@color/Grey_300</color>
+    <color name="Light_Theme_App_Bar">@color/Grey_100</color>
+    <color name="Light_Theme_Background">@color/Grey_50</color>
+    <color name="Light_Theme_Cards_and_Dialogs">@color/White</color>
+
+    <color name="Dark_Theme_Status_Bar">@color/Black</color>
+    <color name="Dark_Theme_App_Bar">@color/Grey_900</color>
+    <color name="Dark_Theme_Background">#303030</color>
+    <color name="Dark_Theme_Cards_and_Dialogs">@color/Grey_800</color>
+    
   
  ```
 
