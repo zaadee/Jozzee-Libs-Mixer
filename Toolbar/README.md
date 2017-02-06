@@ -24,8 +24,8 @@
 #### Example style toolbar
 ```xml
  <!--For color toolbar may be multi color-->
-    <style name="Toolbar_Color">
-        <item name="android:textColorSecondary">@color/White_Text_Primary</item>
-        <item name="titleTextColor">@color/White_Text_Primary</item>
-    </style>
+<style name="Toolbar_Color">
+   <item name="android:textColorSecondary">@color/White_Text_Primary</item>
+   <item name="titleTextColor">@color/White_Text_Primary</item>
+</style>
 ```
