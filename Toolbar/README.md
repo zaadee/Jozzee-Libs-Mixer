@@ -1,6 +1,6 @@
 # Toolbar
 
-### set you style
+#### set you style in style.xml
 ```xml
 <!-- Base application theme. -->
 <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -10,7 +10,7 @@
    <item name="windowNoTitle">true</item>
 </style>
 ```
-### XML
+#### create toolbar.xml
 ```xml
 <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
