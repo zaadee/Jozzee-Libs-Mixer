@@ -1,6 +1,8 @@
 # Jozzee Libs Mixer
 mix library and themplete or other for android 5555
 
+Shortcut in Android Studio ---> [MAC](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf),[Linux and Windows](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
+
 Ver. 0.0.1
   - add material colors
   
