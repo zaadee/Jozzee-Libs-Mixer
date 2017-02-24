@@ -1,4 +1,6 @@
 #Transparent
-[Reference](https://developer.android.com/guide/topics/resources/more-resources.html#Color) 
 
 transparent 20% it mean transparent 20%, sopaque 80% 
+Example 
+transparent 20% = 255*0.2 = 51
+51 in hex number  = CC
