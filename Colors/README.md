@@ -306,27 +306,46 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     
     <color name="Black">#000000</color>
     <color name="White">#FFFFFF</color>
-    
-     <color name="Black_Transparent5">@color/Grey_800</color>
-     <color name="Black_Transparent10">@color/Grey_800</color>
-     <color name="Black_Transparent15">@color/Grey_800</color>
-     <color name="Black_Transparent20">@color/Grey_800</color>
-     <color name="Black_Transparent25">@color/Grey_800</color>
-     <color name="Black_Transparent30">@color/Grey_800</color>
-     <color name="Black_Transparent35">@color/Grey_800</color>
-     <color name="Black_Transparent40">@color/Grey_800</color>
-     <color name="Black_Transparent45">@color/Grey_800</color>
-     <color name="Black_Transparent50">@color/Grey_800</color>
-     <color name="Black_Transparent55">@color/Grey_800</color>
-     <color name="Black_Transparent60">@color/Grey_800</color>
-     <color name="Black_Transparent65">@color/Grey_800</color>
-     <color name="Black_Transparent70">@color/Grey_800</color>
-     <color name="Black_Transparent75">@color/Grey_800</color>
-     <color name="Black_Transparent80">@color/Grey_800</color>
-     <color name="Black_Transparent85">@color/Grey_800</color>
-     <color name="Black_Transparent90">@color/Grey_800</color>
-     <color name="Black_Transparent95">@color/Grey_800</color>
-     <color name="Black_Transparent10">@color/Grey_800</color>
-    
+    <color name="Transparent">#00000000</color>
+
+    <color name="Black_Transparent5">#F2000000</color>
+    <color name="Black_Transparent10">#E6000000</color>
+    <color name="Black_Transparent15">#D9000000</color>
+    <color name="Black_Transparent20">#CC000000</color>
+    <color name="Black_Transparent25">#BF000000</color>
+    <color name="Black_Transparent30">#B3000000</color>
+    <color name="Black_Transparent35">#A6000000</color>
+    <color name="Black_Transparent40">#99000000</color>
+    <color name="Black_Transparent45">#8C000000</color>
+    <color name="Black_Transparent50">#80000000</color>
+    <color name="Black_Transparent55">#73000000</color>
+    <color name="Black_Transparent60">#66000000</color>
+    <color name="Black_Transparent65">#59000000</color>
+    <color name="Black_Transparent70">#4D000000</color>
+    <color name="Black_Transparent75">#40000000</color>
+    <color name="Black_Transparent80">#33000000</color>
+    <color name="Black_Transparent85">#26000000</color>
+    <color name="Black_Transparent90">#1A000000</color>
+    <color name="Black_Transparent95">#0D000000</color>
+
+    <color name="White_Transparent5">#F2FFFFFF</color>
+    <color name="White_Transparent10">#E6FFFFFF</color>
+    <color name="White_Transparent15">#D9FFFFFF</color>
+    <color name="White_Transparent20">#CCFFFFFF</color>
+    <color name="White_Transparent25">#BFFFFFFF</color>
+    <color name="White_Transparent30">#B3FFFFFF</color>
+    <color name="White_Transparent35">#A6FFFFFF</color>
+    <color name="White_Transparent40">#99FFFFFF</color>
+    <color name="White_Transparent45">#8CFFFFFF</color>
+    <color name="White_Transparent50">#80FFFFFF</color>
+    <color name="White_Transparent55">#73FFFFFF</color>
+    <color name="White_Transparent60">#66FFFFFF</color>
+    <color name="White_Transparent65">#59FFFFFF</color>
+    <color name="White_Transparent70">#4DFFFFFF</color>
+    <color name="White_Transparent75">#40FFFFFF</color>
+    <color name="White_Transparent80">#33FFFFFF</color>
+    <color name="White_Transparent85">#26FFFFFF</color>
+    <color name="White_Transparent90">#1AFFFFFF</color>
+    <color name="White_Transparent95">#0DFFFFFF</color>
  ```
 
