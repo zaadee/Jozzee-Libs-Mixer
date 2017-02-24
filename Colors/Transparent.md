@@ -7,6 +7,7 @@ transparent 20 = 255*0.2 = 51<br>
 transparent 50% = 255*0.5 = 128<br>
 128 in hex number  = 80
 
+```
 100% — FF
 99% — FC
 98% — FA
@@ -117,3 +118,4 @@ transparent 50% = 255*0.5 = 128<br>
 2% — 05
 1% — 03
 0% — 00 
+```
