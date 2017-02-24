@@ -1,10 +1,4 @@
 #Transparent
+[Reference](https://developer.android.com/guide/topics/resources/more-resources.html#Color) 
 
-##Exemple
-Make the color have 80% in the alpha channel, for example for red use
-
-```xml
-<TextView
-   ...
-   android:background="#CCFF0000" />
-```
+transparent 20% it mean transparent 20%, sopaque 80% 
