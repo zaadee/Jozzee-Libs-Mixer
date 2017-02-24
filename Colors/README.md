@@ -276,9 +276,6 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Blue_Grey_800">#37474F</color>
     <color name="Blue_Grey_900">#263238</color>
     
-    <color name="Black">#000000</color>
-    <color name="White">#FFFFFF</color>
-    
     <color name="Dark_Text_Primary">#DE000000</color>
     <color name="Dark_Text_Secondary">#8A000000</color>
     <color name="Dark_Text_Disabled">#61000000</color>
@@ -307,6 +304,29 @@ Color in material design is inspired by bold hues juxtaposed with muted environm
     <color name="Dark_Theme_Background">#303030</color>
     <color name="Dark_Theme_Cards_and_Dialogs">@color/Grey_800</color>
     
-  
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    
+     <color name="Black_Transparent5">@color/Grey_800</color>
+     <color name="Black_Transparent10">@color/Grey_800</color>
+     <color name="Black_Transparent15">@color/Grey_800</color>
+     <color name="Black_Transparent20">@color/Grey_800</color>
+     <color name="Black_Transparent25">@color/Grey_800</color>
+     <color name="Black_Transparent30">@color/Grey_800</color>
+     <color name="Black_Transparent35">@color/Grey_800</color>
+     <color name="Black_Transparent40">@color/Grey_800</color>
+     <color name="Black_Transparent45">@color/Grey_800</color>
+     <color name="Black_Transparent50">@color/Grey_800</color>
+     <color name="Black_Transparent55">@color/Grey_800</color>
+     <color name="Black_Transparent60">@color/Grey_800</color>
+     <color name="Black_Transparent65">@color/Grey_800</color>
+     <color name="Black_Transparent70">@color/Grey_800</color>
+     <color name="Black_Transparent75">@color/Grey_800</color>
+     <color name="Black_Transparent80">@color/Grey_800</color>
+     <color name="Black_Transparent85">@color/Grey_800</color>
+     <color name="Black_Transparent90">@color/Grey_800</color>
+     <color name="Black_Transparent95">@color/Grey_800</color>
+     <color name="Black_Transparent10">@color/Grey_800</color>
+    
  ```
 
