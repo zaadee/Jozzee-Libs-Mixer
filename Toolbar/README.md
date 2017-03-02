@@ -3,12 +3,9 @@
 #### set you style in style.xml
 ```xml
 <!-- Base application theme. -->
-<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-   <!-- Customize your theme here. -->
-   ...
-   <item name="windowActionBar">false</item>
-   <item name="windowNoTitle">true</item>
-</style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
 ```
 #### create toolbar.xml
 ```xml
