@@ -10,3 +10,6 @@ Ver. 0.0.2 [2/2/2017]
   - add gradle script
   - add toolbar layout
   - add button styles
+  
+Ver. 0.03 [2/3/2017]
+  - add fragment template
