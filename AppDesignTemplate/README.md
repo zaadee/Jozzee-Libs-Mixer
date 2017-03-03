@@ -1,6 +1,6 @@
 #AppDesignTemplate
 
-This template desig for android screen size 4.5", ratio 16:9, scale factor X4 (640dpi)
+This template desig for android screen size 4.5", ratio 16:9, scale factor X4 (640dpi) <br>
 Example view widht 720px ---> (720/4) = 180dp <br>
 
 
