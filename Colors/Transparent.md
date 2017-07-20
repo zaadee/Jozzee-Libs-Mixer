@@ -9,11 +9,11 @@ transparent 50% = 255*0.5 = 128<br>
 
 ```
                                  |16|    |10|
--------------------------------------------
-(Transparent 0%, Opacity 100%) =  FF    
-(Transparent 1%, Opacity 99%)  =  FC   
-(Transparent 2%, Opacity 98%)  =  FA     
-(Transparent 3%, Opacity 97%)  =  F7 
+-----------------------------------------------
+(Transparent 0%, Opacity 100%) =  FF      255
+(Transparent 1%, Opacity 99%)  =  FC      252
+(Transparent 2%, Opacity 98%)  =  FA      250
+(Transparent 3%, Opacity 97%)  =  F7      247
 (Transparent 4%, Opacity 96%)  =  F5  
 (Transparent 5%, Opacity 95%)  =  F2
 (Transparent 6%, Opacity 94%)  =  F0
